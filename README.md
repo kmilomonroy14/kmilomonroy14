@@ -42,5 +42,5 @@ Busco una oportunidad como desarrollador junior para aplicar mis conocimientos, 
 ## 📫 Contacto
 
 - **GitHub:** [@lanim-oficial](https://github.com/lanim-oficial)
-- **LinkedIn:** [Mi perfil profesional](https://www.linkedin.com/)
-- **Correo:** tu-correo@ejemplo.com
+- **LinkedIn:** [Mi perfil profesional](https://www.linkedin.com/in/camilo-henao-monroy-542558336/)
+- **Correo:** camiloernestormm@gmail.com
